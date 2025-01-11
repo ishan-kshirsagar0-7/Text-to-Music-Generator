@@ -16,7 +16,7 @@ https://github.com/ishan-kshirsagar0-7/Text-to-Music-Generator/assets/83628182/c
 
 ## Demo (Try It Out)
 
-1. Visit : [Click Here](http://lnkiy.in/texttomusic)
+1. Visit : [Click Here](https://huggingface.co/spaces/unpairedelectron07/Text-to-Music-Generator)
 2. Adjust the slider first to the desired duration of the resulting audio, then click on the "Stop" button on the top-right corner.
 3. Then enter your prompt, without worrying about the details, as the app will enhance it before passing it to the model.
 4. Press "Ctrl + Enter" or "Cmd + Enter" to start the process. Note that it may take the app a maximum of 8 minutes to generate a 20 second audio.
